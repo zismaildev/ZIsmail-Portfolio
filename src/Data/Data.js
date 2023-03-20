@@ -71,7 +71,7 @@ export const EducactionData = [
     src: School5,
     title: "เคยศึกษาชั้นมัธยมศึกษา4-6ที่",
     contentss: "กศน.อำเภอสันทราย",
-    time: "พ.ศ.2564 - ปัจุบัน",
+    time: "พ.ศ.2564 - 2565",
   },
 ];
 
